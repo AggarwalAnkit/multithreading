@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/aa/Development/ReactNative/multi-threading/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/aa/Development/ReactNative/multi-threading/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/aa/Development/ReactNative/multi-threading/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/aa/Development/ReactNative/multi-threading/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/aa/Development/ReactNative/multi-threading/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/aa/Development/ReactNative/multi-threading/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/aa/Development/ReactNative/multi-threading/node_modules/react-native/React/Base/RCTPerformanceLogger.h
